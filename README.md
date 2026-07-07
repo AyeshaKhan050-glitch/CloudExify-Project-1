@@ -1,3 +1,7 @@
+<img width="949" height="541" alt="4 pic" src="https://github.com/user-attachments/assets/498b7e1e-84fe-45c0-8597-f8c5e6d878ef" />
+<img width="946" height="512" alt="3rd pic" src="https://github.com/user-attachments/assets/443a47d3-b2d1-4fcc-8b60-f8019330939a" />
+<img width="959" height="559" alt="second" src="https://github.com/user-attachments/assets/22da22ae-1fae-4aaa-8de5-f561a1087967" />
+<img width="953" height="559" alt="first pic" src="https://github.com/user-attachments/assets/c3e49b44-85ed-482f-8173-d46eaeba2bcc" />
 # CloudExify-Project-1
 # Number Guessing Game
 
